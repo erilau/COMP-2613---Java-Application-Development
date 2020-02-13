@@ -1,0 +1,96 @@
+2019-06-03 08:26:31.923 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:26:31.931 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:26:31.310101Z
+2019-06-03 08:26:32.114 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:26:32.115 [main] INFO  a01027727.BookStore - Generating Purchase Report
+2019-06-03 08:26:33.541 [main] INFO  a01027727.BookStore - Purchase Report Sorting by Last Name
+2019-06-03 08:26:34.011 [main] INFO  a01027727.BookStore - Purchase Report Sorting by Last Name in Descending Order
+2019-06-03 08:26:36.090 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:26:36.091 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:26:36.093 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:26:36.093294200Z
+2019-06-03 08:26:36.094 [main] INFO  a01027727.BookStore - Duration: 4783 ms
+2019-06-03 08:32:05.688 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:32:05.696 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:32:05.056552100Z
+2019-06-03 08:32:05.855 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:32:05.859 [main] INFO  a01027727.BookStore - Generating Customer Report
+2019-06-03 08:32:05.936 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:32:05.936 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:32:05.938 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:32:05.938048200Z
+2019-06-03 08:32:05.939 [main] INFO  a01027727.BookStore - Duration: 881 ms
+2019-06-03 08:32:30.313 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:32:30.321 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:32:29.679778100Z
+2019-06-03 08:32:30.491 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:32:30.494 [main] INFO  a01027727.BookStore - Generating Book Report
+2019-06-03 08:32:30.598 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:32:30.599 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:32:30.602 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:32:30.602252500Z
+2019-06-03 08:32:30.604 [main] INFO  a01027727.BookStore - Duration: 922 ms
+2019-06-03 08:32:46.251 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:32:46.260 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:32:45.629457100Z
+2019-06-03 08:32:46.418 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:32:46.432 [main] INFO  a01027727.BookStore - Generating Purchase Report
+2019-06-03 08:32:48.603 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:32:48.603 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:32:48.606 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:32:48.605481700Z
+2019-06-03 08:32:48.609 [main] INFO  a01027727.BookStore - Duration: 2976 ms
+2019-06-03 08:33:18.295 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:33:18.302 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:33:17.672449200Z
+2019-06-03 08:33:18.465 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:33:18.468 [main] INFO  a01027727.BookStore - Generating Customer Report
+2019-06-03 08:33:18.545 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:33:18.546 [main] INFO  a01027727.BookStore - Generating Book Report
+2019-06-03 08:33:18.653 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:33:18.656 [main] INFO  a01027727.BookStore - Generating Purchase Report
+2019-06-03 08:33:21.644 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:33:21.645 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:33:21.650 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:33:21.650408800Z
+2019-06-03 08:33:21.651 [main] INFO  a01027727.BookStore - Duration: 3977 ms
+2019-06-03 08:33:30.038 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:33:30.046 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:33:29.270265500Z
+2019-06-03 08:33:30.199 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:33:30.202 [main] INFO  a01027727.BookStore - Generating Customer Report
+2019-06-03 08:33:30.205 [main] INFO  a01027727.BookStore - Customer Report Sorted by Joined Date
+2019-06-03 08:33:30.282 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:33:30.283 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:33:30.285 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:33:30.285682100Z
+2019-06-03 08:33:30.287 [main] INFO  a01027727.BookStore - Duration: 1015 ms
+2019-06-03 08:33:48.170 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:33:48.178 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:33:47.549289900Z
+2019-06-03 08:33:48.367 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:33:48.368 [main] INFO  a01027727.BookStore - Generating Customer Report
+2019-06-03 08:33:48.372 [main] INFO  a01027727.BookStore - Customer Report Sorted by Joined Date
+2019-06-03 08:33:48.374 [main] INFO  a01027727.BookStore - Customer Report Sorted by Joined Date in Desending Order
+2019-06-03 08:33:48.455 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:33:48.456 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:33:48.457 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:33:48.457754900Z
+2019-06-03 08:33:48.459 [main] INFO  a01027727.BookStore - Duration: 908 ms
+2019-06-03 08:34:22.967 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:34:22.975 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:34:22.344893100Z
+2019-06-03 08:34:22.982 [main] ERROR a01027727.BookStore - org.apache.commons.cli.UnrecognizedOptionException: Unrecognized option: -a
+2019-06-03 08:34:26.797 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:34:26.806 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:34:26.175113100Z
+2019-06-03 08:34:26.993 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:34:26.996 [main] INFO  a01027727.BookStore - Generating Book Report
+2019-06-03 08:34:27.001 [main] INFO  a01027727.BookStore - Book Report Sorted by Author
+2019-06-03 08:34:27.122 [main] INFO  a01027727.BookStore - Done!
+2019-06-03 08:34:27.123 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:34:27.125 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:34:27.125571700Z
+2019-06-03 08:34:27.126 [main] INFO  a01027727.BookStore - Duration: 950 ms
+2019-06-03 08:34:58.850 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:34:58.858 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:34:58.172114900Z
+2019-06-03 08:34:59.039 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:34:59.042 [main] INFO  a01027727.BookStore - Generating Purchase Report
+2019-06-03 08:35:05.400 [main] INFO  a01027727.BookStore - Purchase Report Sorting by Book Title
+2019-06-03 08:35:07.040 [main] INFO  a01027727.BookStore - Purchase Report with total
+2019-06-03 08:35:07.041 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:35:07.046 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:35:07.045197700Z
+2019-06-03 08:35:07.047 [main] INFO  a01027727.BookStore - Duration: 8873 ms
+2019-06-03 08:35:49.719 [main] INFO  a01027727.BookStore - Book Store Program Started!
+2019-06-03 08:35:49.727 [main] INFO  a01027727.BookStore - Start Time: 2019-06-03T15:35:49.091992200Z
+2019-06-03 08:35:49.897 [main] INFO  a01027727.BookStore - Generated Data. Ready to Report and Sort
+2019-06-03 08:35:49.898 [main] INFO  a01027727.BookStore - Generating Purchase Report
+2019-06-03 08:35:50.317 [main] INFO  a01027727.BookStore - Purchase Report Sorting by Book Title
+2019-06-03 08:35:50.405 [main] INFO  a01027727.BookStore - Purchase Report Sorting by Book Title in Descending Order
+2019-06-03 08:35:50.578 [main] INFO  a01027727.BookStore - Purchase Report with total
+2019-06-03 08:35:50.579 [main] INFO  a01027727.BookStore - Book Store Program Finished!
+2019-06-03 08:35:50.582 [main] INFO  a01027727.BookStore - End Time: 2019-06-03T15:35:50.582173Z
+2019-06-03 08:35:50.583 [main] INFO  a01027727.BookStore - Duration: 1490 ms
